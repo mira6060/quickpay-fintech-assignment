@@ -1,0 +1,7 @@
+payment_method,transaction_count,total_gmv_usd,captured_gmv,avg_amount
+bank_transfer,75,167702.39,32559.67,2236.03
+bnpl,85,203444.93,61490.68,2393.47
+credit_card,80,149902.52,15001.68,1873.78
+debit_card,75,133688.83,13809.27,1782.52
+upi,71,143727.64,16401.07,2024.33
+wallet,85,179318.46,37427.78,2109.63

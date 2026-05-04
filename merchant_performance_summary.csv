@@ -1,0 +1,9 @@
+merchant_name,total_transactions,total_gmv_usd,captured_gmv,chargeback_count,failed_count,avg_risk_score,high_value_count,high_risk_count,chargeback_ratio_pct,success_rate_pct
+Adyen NV,58,126154.72,10769.69,13,10,54.86,3,25,22.41,60.34
+Amazon Payments,50,97364.05,18851.45,12,10,56.98,4,22,24.0,56.0
+Klarna AB,62,114198.93,17759.86,20,11,55.87,4,34,32.26,50.0
+PayU India,62,146799.86,21375.91,21,6,54.81,9,33,33.87,56.45
+Razorpay,64,136471.51,50331.28,10,11,50.92,6,22,15.62,67.19
+Shopify Inc,61,139809.45,7323.56,12,8,53.93,8,23,19.67,67.21
+Square Inc,62,93653.38,16755.37,10,15,58.47,3,29,16.13,59.68
+Stripe Ltd,61,156997.06,46980.57,9,17,51.08,10,22,14.75,57.38

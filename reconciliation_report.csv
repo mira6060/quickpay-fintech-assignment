@@ -1,0 +1,101 @@
+transaction_id,issue_type,ledger_amount,gateway_amount,ledger_status,gateway_status,merchant
+TXN00251,Missing in Gateway,410.79,,chargeback,,Razorpay
+TXN00252,Missing in Gateway,7126.54,,pending,,Razorpay
+TXN00253,Missing in Gateway,2570.19,,failed,,Square Inc
+TXN00254,Missing in Gateway,1119.57,,failed,,Klarna AB
+TXN00255,Missing in Gateway,474.94,,pending,,Amazon Payments
+TXN00256,Missing in Gateway,4050.0,,pending,,Razorpay
+TXN00257,Missing in Gateway,2519.44,,refunded,,Stripe Ltd
+TXN00258,Missing in Gateway,2006.03,,failed,,Stripe Ltd
+TXN00259,Missing in Gateway,5708.26,,failed,,Razorpay
+TXN00260,Missing in Gateway,3984.98,,pending,,Amazon Payments
+TXN00261,Missing in Gateway,511.23,,pending,,Shopify Inc
+TXN00262,Missing in Gateway,1033.91,,captured,,Amazon Payments
+TXN00263,Missing in Gateway,814.17,,refunded,,PayU India
+TXN00264,Missing in Gateway,3505.92,,chargeback,,Square Inc
+TXN00265,Missing in Gateway,185.27,,refunded,,Square Inc
+TXN00266,Missing in Gateway,2209.28,,failed,,Razorpay
+TXN00267,Missing in Gateway,3693.53,,captured,,Stripe Ltd
+TXN00268,Missing in Gateway,5334.17,,pending,,Razorpay
+TXN00269,Missing in Gateway,1146.69,,chargeback,,PayU India
+TXN00270,Missing in Gateway,4404.52,,failed,,Stripe Ltd
+TXN00271,Missing in Gateway,393.11,,chargeback,,Amazon Payments
+TXN00272,Missing in Gateway,4784.36,,refunded,,Razorpay
+TXN00273,Missing in Gateway,440.95,,captured,,Square Inc
+TXN00274,Missing in Gateway,1365.79,,refunded,,Klarna AB
+TXN00275,Missing in Gateway,4090.01,,pending,,Shopify Inc
+TXN00276,Missing in Gateway,506.05,,captured,,Stripe Ltd
+TXN00277,Missing in Gateway,750.98,,refunded,,Shopify Inc
+TXN00278,Missing in Gateway,3302.61,,chargeback,,Klarna AB
+TXN00279,Missing in Gateway,3282.74,,captured,,Shopify Inc
+TXN00280,Missing in Gateway,2662.11,,captured,,Amazon Payments
+TXN00281,Missing in Gateway,3060.0,,pending,,Adyen NV
+TXN00282,Missing in Gateway,2056.17,,pending,,Shopify Inc
+TXN00283,Missing in Gateway,825.21,,chargeback,,Amazon Payments
+TXN00284,Missing in Gateway,1160.46,,chargeback,,Adyen NV
+TXN00285,Missing in Gateway,601.0,,captured,,Adyen NV
+TXN00286,Missing in Gateway,6077.19,,failed,,Stripe Ltd
+TXN00287,Missing in Gateway,2289.02,,refunded,,Klarna AB
+TXN00288,Missing in Gateway,1380.61,,captured,,Square Inc
+TXN00289,Missing in Gateway,1649.77,,chargeback,,Razorpay
+TXN00290,Missing in Gateway,7457.06,,captured,,Square Inc
+TXN00291,Missing in Gateway,516.17,,pending,,PayU India
+TXN00292,Missing in Gateway,2306.11,,refunded,,Amazon Payments
+TXN00293,Missing in Gateway,1862.49,,captured,,Klarna AB
+TXN00294,Missing in Gateway,2463.36,,pending,,Stripe Ltd
+TXN00295,Missing in Gateway,145.69,,refunded,,Amazon Payments
+TXN00296,Missing in Gateway,5241.73,,refunded,,Klarna AB
+TXN00297,Missing in Gateway,6824.97,,failed,,Amazon Payments
+TXN00298,Missing in Gateway,2181.79,,pending,,Klarna AB
+TXN00299,Missing in Gateway,3082.18,,refunded,,Razorpay
+TXN00300,Missing in Gateway,6493.67,,failed,,Klarna AB
+TXN00310,Missing in Ledger,,3170.99,,failed,Unknown
+TXN00311,Missing in Ledger,,513.78,,failed,Unknown
+TXN00312,Missing in Ledger,,2246.76,,pending,Unknown
+TXN00313,Missing in Ledger,,2433.05,,captured,Unknown
+TXN00314,Missing in Ledger,,1479.69,,pending,Unknown
+TXN00315,Missing in Ledger,,3433.73,,failed,Unknown
+TXN00316,Missing in Ledger,,6909.19,,captured,Unknown
+TXN00317,Missing in Ledger,,6594.69,,captured,Unknown
+TXN00318,Missing in Ledger,,1598.41,,pending,Unknown
+TXN00319,Missing in Ledger,,400.45,,pending,Unknown
+TXN00320,Missing in Ledger,,10572.93,,captured,Unknown
+TXN00321,Missing in Ledger,,4664.3,,failed,Unknown
+TXN00322,Missing in Ledger,,432.86,,captured,Unknown
+TXN00323,Missing in Ledger,,6440.77,,failed,Unknown
+TXN00324,Missing in Ledger,,5198.56,,pending,Unknown
+TXN00325,Missing in Ledger,,1928.88,,captured,Unknown
+TXN00326,Missing in Ledger,,2336.78,,failed,Unknown
+TXN00327,Missing in Ledger,,1372.91,,failed,Unknown
+TXN00328,Missing in Ledger,,240.8,,captured,Unknown
+TXN00329,Missing in Ledger,,1120.66,,failed,Unknown
+TXN00019,Amount Mismatch,11010.69,11481.09,captured,captured,Adyen NV
+TXN00032,Amount Mismatch,20531.11,19705.14,chargeback,chargeback,Klarna AB
+TXN00035,Amount Mismatch,3763.21,3609.65,pending,pending,Klarna AB
+TXN00069,Amount Mismatch,5962.65,6233.45,failed,failed,Shopify Inc
+TXN00078,Amount Mismatch,6629.16,6552.37,chargeback,chargeback,PayU India
+TXN00085,Amount Mismatch,2608.72,2619.3,refunded,refunded,PayU India
+TXN00088,Amount Mismatch,444.94,425.19,chargeback,chargeback,Shopify Inc
+TXN00089,Amount Mismatch,442.55,425.65,failed,failed,Stripe Ltd
+TXN00096,Amount Mismatch,1705.95,1728.58,pending,pending,Razorpay
+TXN00099,Amount Mismatch,633.88,654.0,failed,failed,Shopify Inc
+TXN00101,Amount Mismatch,562.62,545.89,refunded,refunded,Adyen NV
+TXN00111,Amount Mismatch,200.26,192.25,chargeback,chargeback,Square Inc
+TXN00113,Amount Mismatch,2571.48,2568.13,captured,failed,Adyen NV
+TXN00130,Amount Mismatch,827.34,795.3,chargeback,chargeback,Razorpay
+TXN00139,Amount Mismatch,884.19,885.51,captured,captured,Stripe Ltd
+TXN00153,Amount Mismatch,2309.81,2325.67,captured,captured,Square Inc
+TXN00168,Amount Mismatch,537.91,563.74,captured,chargeback,Shopify Inc
+TXN00177,Amount Mismatch,397.07,403.78,refunded,refunded,Klarna AB
+TXN00192,Amount Mismatch,1485.36,1467.97,captured,captured,Razorpay
+TXN00193,Amount Mismatch,1871.21,1846.22,refunded,refunded,Shopify Inc
+TXN00213,Amount Mismatch,1694.64,1637.83,chargeback,chargeback,Stripe Ltd
+TXN00216,Amount Mismatch,6731.39,6675.21,refunded,refunded,Shopify Inc
+TXN00219,Amount Mismatch,431.82,418.39,refunded,failed,Klarna AB
+TXN00021,Status Mismatch,2354.31,2354.31,failed,pending,Shopify Inc
+TXN00093,Status Mismatch,601.87,601.87,pending,failed,Shopify Inc
+TXN00094,Status Mismatch,1160.35,1160.35,pending,captured,Stripe Ltd
+TXN00106,Status Mismatch,1644.07,1644.07,refunded,failed,Klarna AB
+TXN00163,Status Mismatch,2427.08,2427.08,captured,chargeback,Shopify Inc
+TXN00183,Status Mismatch,568.5,568.5,failed,captured,Shopify Inc
+TXN00242,Status Mismatch,996.61,996.61,pending,chargeback,Shopify Inc

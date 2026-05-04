@@ -1,0 +1,4 @@
+region,transaction_count,total_gmv_usd,captured_gmv,avg_risk_score,high_value_count,high_risk_count
+APAC,172,384587.63,82738.2,53.72,22,70
+EU,144,283294.52,63321.69,55.22,15,65
+US,155,315299.35,40175.35,54.87,10,71
